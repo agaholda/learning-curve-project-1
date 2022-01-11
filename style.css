@@ -12,6 +12,14 @@ body {
 
 .logo {
   margin-top: 72px;
+  font-family: Rubik;
+  font-style: normal;
+  font-size: 30px;
+  line-height: 36px;
+  color: #413fb5;
+}
+.logo span:first-child {
+  font-weight: bold;
 }
 
 .login-section {
@@ -110,7 +118,8 @@ h1 {
 
 .form-group > label {
   position: absolute;
-  width: 60px;
+  width: auto;
+  padding: 0px 5px;
   top: -10px;
   left: 10px;
   background-color: white;
