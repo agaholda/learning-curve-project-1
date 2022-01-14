@@ -65,6 +65,7 @@ h1 {
   align-items: center;
   background-color: white;
   justify-content: center;
+  text-decoration: none;
 }
 
 .buttons:hover {
